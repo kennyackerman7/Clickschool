@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+       
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.title {
+    color: #EC681C;
+}
+
+.logo{
+    transform: scale(0.7);
+    background: #ff1e1e0c;
+}
